@@ -7,7 +7,7 @@ export default function Home() {
     return (
         <div className={styles.container}>
             <Head>
-                <title>RainbowKit Demo</title>
+                <title>Web3 decentralised raffle</title>
             </Head>
             <Header />
             <RaffleEntrance />
